@@ -1,0 +1,2 @@
+# Namensrune
+Namensrunenrechner
